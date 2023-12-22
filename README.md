@@ -1,11 +1,12 @@
-# HIFIGAN+ BWE COLAB FORK
+# HIFIGAN+ COLAB FORK
 Added features:
+* phase accurate chunking
 * batch processing
 * crafted for audio input with a cutoff between 12khz and 20khz
 * multiband ensembling with source file, keeping only "what's needed"
 * smooth lowpass filter applied to extra high frequency (more realistic output)
 
-
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarredou%20https://github.com/jarredou/hifi-gan-bwe/blob/main/HIFIGAN_BWE.ipynb)
 
 Tweaks by jarredou
 
