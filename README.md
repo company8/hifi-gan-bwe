@@ -1,13 +1,15 @@
 # HIFIGAN+ BWE COLAB FORK
 Added features:
-    batch processing
-    crafted for audio input with a cutoff between 12khz and 20khz
-    multiband ensembling with original file, keeping only "what's needed"
-    smooth lowpass filter applied to extra high frequency (more realistic output)
+* batch processing
+* crafted for audio input with a cutoff between 12khz and 20khz
+* multiband ensembling with source file, keeping only "what's needed"
+* smooth lowpass filter applied to extra high frequency (more realistic output)
 
-Original work : https://github.com/brentspell/hifi-gan-bwe
+
+
 Tweaks by jarredou
 
+Original work : https://github.com/brentspell/hifi-gan-bwe
 
 
 
@@ -15,6 +17,8 @@ Tweaks by jarredou
 --------
 ---------
 ----------
+
+
 
 # HiFi-GAN+
 This project is an unoffical implementation of the HiFi-GAN+ model for
