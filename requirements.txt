@@ -75,6 +75,7 @@ isort==5.10.1
 keyring==23.5.0
     # via twine
 kiwisolver==1.4.2
+librosa
     # via matplotlib
 matplotlib==3.5.1
     # via -r requirements.in
